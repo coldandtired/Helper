@@ -1,0 +1,21 @@
+name: Helper
+version: 1.0
+author: coldandtired
+main: me.coldandtired.helper.Main
+description: Allows you to set what items and experience mobs drop by percentage.
+website: http://dev.bukkit.org/server-mods/mob-drops/
+commands:
+    a:
+        description: ggggg
+    g:
+        description: sssss
+    t:
+        description: sssss
+    w:
+        description: sssss
+    r:
+        description: sssss
+    u:
+        description: sssss
+    x:
+        description: sssss
